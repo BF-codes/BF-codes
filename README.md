@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-I'm Benjamin, from Göttingen - Germany. I'm a teacher on the journey to become a Front-End Developer.
+I'm Benjamin, from Göttingen - Germany. I'm a teacher on the journey to become a Web Developer.
 
 In my freetime I enjoy reading, playing videogames, cooking and attending football matches all over Germany.
 
-I'm currently working on the ['The Odin Project'](https://www.theodinproject.com) (TOP) Javascript curriculum. Since I'm still working as a teacher full-time I aim to finish the curriculum in June 2022!
+I'm currently learning Spring Boot. Before that I learned Basic and Intermediate Java and refreshed my knowledge about HTML, CSS and Responsive Web Design.
 
-- 🔭 I’m currently working on redoing the foundations (Git, HTML, CSS), since it's been quite a while since my first try at TOP.
-- 🌱 I’m currently learning the Odin Project Fullstack JS course
+- 🔭 I'll code my very own online shop with the help of Spring!
+- 🌱 To do that I'll obviously have to learn the in-and-outs of Spring :)
 - 📫 How to reach me: coming soon
 
 -->
